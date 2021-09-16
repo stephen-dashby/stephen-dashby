@@ -1,5 +1,3 @@
-Dude behind Dashby
-
 dashbyapp@gmail.com
 
 <!---
